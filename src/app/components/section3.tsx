@@ -7,7 +7,7 @@ export default function Section3 () {
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et veniam dolor doloremque blanditiis 
       </h2>
 
-      <div className="flex justify-center gap-8 flex-wrap mb-16">
+      {/* <div className="flex justify-center gap-8 flex-wrap mb-16">
         <div className="text-center">
           <img
             src="https://cdn-icons-png.flaticon.com/512/1077/1077063.png"
@@ -24,7 +24,7 @@ export default function Section3 () {
           />
           <p className="font-semibold text-gray-700">Culpa nulla minima</p>
         </div>
-      </div>
+      </div> */}
 
       <div className="max-w-6xl mx-auto">
         <div className="space-y-12">
