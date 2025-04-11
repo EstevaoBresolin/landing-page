@@ -7,7 +7,7 @@ export default function Section1() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-12">
         <div className="flex-1">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit
           </h1>
           <p className="text-lg md:text-xl text-gray-300 mb-8">
            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
