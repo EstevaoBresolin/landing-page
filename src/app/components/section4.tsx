@@ -4,13 +4,13 @@ export default function Section4 () {
   return (
     <section id="suporte" className="bg-gray-50 px-4 py-16">
       <div className="max-w-5xl mx-auto text-center mb-12">
-        <h2 className="text-2xl md:text-3xl font-bold text-gray-600">
+        <h2 className="text-2xl md:text-3xl font-bold text-gray-600  titulo">
         Voluptas exercitationem unde magni perferendis laborum ullam ipsam! Id vitae illum, est voluptate magni nulla!
         </h2>
       </div>
 
       {/* Logos */}
-      <div className="flex justify-center items-center gap-10 flex-wrap mb-16">
+      <div className="flex flex-col md:flex-row justify-center items-center gap-10 flex-wrap mb-16">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
           alt="Zoom"

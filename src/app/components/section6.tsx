@@ -3,7 +3,7 @@ import React from "react";
 export default function Section6 () {
   return (
     <section id="saiba-mais" className="px-4 py-16 bg-white text-gray-800">
-      <h2 className="text-2xl md:text-3xl font-bold text-center mb-12">Quer saber mais?</h2>
+      <h2 className="text-2xl md:text-3xl font-bold text-center mb-12  titulo">Quer saber mais?</h2>
 
       <div className="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto mb-12">
         {/* Card 1 */}
@@ -17,7 +17,7 @@ export default function Section6 () {
     className="w-full h-48 object-cover group-hover:brightness-90 transition duration-300 rounded-sm"
   />
   <div className="p-4">
-    <h3 className="font-semibold mb-2">
+    <h3 className="font-semibold mb-2  titulo">
       Lorem ipsum dolor sit amet, consectetur adipisicing
     </h3>
   </div>
@@ -34,7 +34,7 @@ export default function Section6 () {
     className="w-full h-48 object-cover group-hover:brightness-90 transition duration-300 rounded-sm"
   />
   <div className="p-4">
-    <h3 className="font-semibold mb-2">
+    <h3 className="font-semibold mb-2  titulo">
       Quidem possimus libero quia adipisci soluta dolore
     </h3>
   </div>
@@ -51,7 +51,7 @@ export default function Section6 () {
     className="w-full h-48 object-cover group-hover:brightness-90 transition duration-300 rounded-sm"
   />
   <div className="p-4">
-    <h3 className="font-semibold mb-2">
+    <h3 className="font-semibold mb-2  titulo">
       Iusto in culpa nulla minima, et est neque id omnis
     </h3>
   </div>

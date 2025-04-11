@@ -3,7 +3,7 @@ import React from "react";
 export default function Section3 () {
   return (
     <section id="precos" className="bg-white py-16 px-6">
-      <h2 className="text-2xl md:text-3xl font-bold text-center mb-12 max-w-3xl mx-auto text-gray-700">
+      <h2 className="text-2xl md:text-3xl font-bold text-center mb-12 max-w-3xl mx-auto text-gray-700  titulo">
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et veniam dolor doloremque blanditiis 
       </h2>
 
@@ -39,7 +39,7 @@ export default function Section3 () {
                 className="w-full max-w-[300px] rounded-xl shadow-md object-cover"
               />
               <div className="text-left md:w-2/4">
-                <h3 className="text-lg md:text-xl font-semibold mb-2 text-gray-900">
+                <h3 className="text-lg md:text-xl font-semibold mb-2 text-gray-900  titulo">
                   {item.titulo}
                 </h3>
                 <p className="text-gray-600">{item.descricao}</p>
